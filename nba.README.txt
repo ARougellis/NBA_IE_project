@@ -1,0 +1,43 @@
+NBA
+
+Description
+
+This dataset contains NBA player salaries for the 2019-2020 season and player statistics for the 2018-2019 season for 307 NBA players who played for a single team during the 2018-2019 season and signed one contract for the 2019-2020 season. The goal of this project is to explore how player salaries are correlated with their performance in the previous season.
+
+Source
+The raw salary data was downloaded from https://www.basketball-reference.com/contracts/players.html, and the raw player statistic data was downloaded from https://www.basketball-reference.com/leagues/NBA_2019_per_game.html. More detailed descriptions of the data can be found at these sources.
+
+The data set contains the following columns:
+  	Variable 	  		Description
+      	Name				Player Name
+	Salary1920			Salary for the 2019-2020 season
+	Tm1920				Team for 2019-2020 season
+	Pos				Position during the 2018-2019 season
+	Age				Age during the 2018-2019 season
+	Tm1819				Team during the 2018-2019 season
+	G				Games played during the 2018-2019 season
+	GS				Games started during the 2018-2019 season
+	MP				Average minutes played per game during the 2018-2019 season
+	FG				Average field goals made per game during the 2018-2019 season
+	FGA				Average field goals attempted per game during the 2018-2019 season
+	FGP				Average field goals percentage per game during the 2018-2019 season
+	ThreeP				Average three point shots made per game during the 2018-2019 season
+	ThreePA				Average three point shots attempted per game during the 2018-2019 season
+	ThreePP				Average three point percentage per game during the 2018-2019 season
+	TwoP				Average two point shots made per game during the 2018-2019 season
+	TwoPA				Average two point shots attempted per game during the 2018-2019 season
+	TwoPP				Average two point shots percentage per game during the 2018-2019 season
+	eFGP				Average effective field goal percentage per game during the 2018-2019 season
+	FT				Average free throws made per game during the 2018-2019 season
+	FTA				Average free throws attempted per game during the 2018-2019 season
+	FTP				Average free throw percentage per game during the 2018-2019 season
+	ORB				Average offensive rebounds per game during the 2018-2019 season
+	DRB				Average defensive rebounds per game during the 2018-2019 season
+	TRB				Average total rebounds per game during the 2018-2019 season
+	AST				Average assists per game during the 2018-2019 season
+	STL				Average steals rebounds per game during the 2018-2019 season
+	BLK				Average blocks per game during the 2018-2019 season
+	TOV				Average turnovers per game during the 2018-2019 season
+	PF				Average personal fouls per game during the 2018-2019 season
+	PTS 				Average points per game during the 2018-2019 season
+
