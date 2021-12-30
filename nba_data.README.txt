@@ -40,4 +40,3 @@ The data set contains the following columns:
 	TOV				Average turnovers per game during the 2018-2019 season
 	PF				Average personal fouls per game during the 2018-2019 season
 	PTS 				Average points per game during the 2018-2019 season
-
