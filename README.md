@@ -10,9 +10,14 @@ This project was broken up into 4 parts
 - pt.II : analysis of variables
 - pt.III : further analysis and write-up
 - pt.IV : presentation 
-What will be posted here is my work from pt.II & III. 
 
-In pt.II : 
+In **pt.I** : 
+Got aquainted with data. Finding outliers and mising data, performing basic visualizations, transforming data, etc. 
+
+In **pt.II** : 
+In this part, I go about analyzing my data by creating regression models and finding standard deviations, residuals, estimators, coefficients of determinations, and more. With these, I created many graphs and plots such as scatter plots, histograms, and more. All this to try and find the variables with the most significant correlation to a greater salary. 
+
+In **pt.III** : 
 
 
 Sidenote:
